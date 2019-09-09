@@ -21,3 +21,7 @@ console.log(exifData);
      Software: 'HDR+ 1.0.265696846zdh',
      ...
 ```
+
+## Reference
+
+This project is heavily inspired by https://github.com/exif-js/exif-js
