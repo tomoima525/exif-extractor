@@ -4,11 +4,11 @@
 
 # installation
 
-add below on your package.json and then run `yarn install`
+Add below on your package.json and then run `yarn install` or `npm install`.
 
 ```
 dependencies: {
- "exif-extractor": "git://github.com/tomoima525/exif-extractor.git#1.0.0",
+ "exif-extractor": "git://github.com/tomoima525/exif-extractor.git#1.0.1",
 }
 ```
 
